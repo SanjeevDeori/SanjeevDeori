@@ -2,7 +2,6 @@
 <h3 align="center">💻 CSE Student | Aspiring Software Developer</h3>
 
 🌱 Currently learning **DSA, Web Development, Python AI/ML**  
-🎯 Preparing for **GATE 2026 & Placements**  
 ⚡ My expertise is **getting work done efficiently**  
 🎮 Love **gaming** as a form of relaxation  
 
