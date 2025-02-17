@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Sanjeev Deori! </h1>
+<div style="text-align: center;">
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Profile-gif" width="100%">
+</div><h1 align="center">👋 Hi, I'm Sanjeev Deori! </h1>
 <h3 align="center">💻 CSE Student | Aspiring Software Developer</h3>
 
 🌱 Currently learning **DSA, Web Development, Python AI/ML**  
